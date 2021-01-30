@@ -22,4 +22,4 @@ Python语言学习 DEMO
     03_set_1.py    -- 赋值运算符 - 执行顺序，从 右 到 左
 
 ##### chap3
-    demo1.py  -- 
+    demo1.py  -- 比较运算符  大于、等于、小于、大于等于、小于等于、不等于、is、is not

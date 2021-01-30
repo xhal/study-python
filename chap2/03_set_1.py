@@ -43,8 +43,20 @@ print("a = ", a, 'id=', id(a), 'type=', type(a))
 
 
 print('--------------华丽的分隔线-----------------')
+# 解包赋值
 a,b,c=10,22,33
 
+print("a = ", a, 'id=', id(a), 'type=', type(a))
+print("b = ", b, 'id=', id(b), 'type=', type(b))
+print("c = ", c, 'id=', id(c), 'type=', type(c))
+
+# 左右数量不匹配，异常
+# a,b = 1,2,3   ValueError: too many values to unpack (expected 2)
 
 
+print('--------------华丽的分隔线-----------------')
+# 两个变量，交换赋值
+a,b = b,a
 
+print("a = ", a, 'id=', id(a), 'type=', type(a))
+print("b = ", b, 'id=', id(b), 'type=', type(b))
