@@ -3,35 +3,23 @@
 #### 介绍
 Python语言学习 DEMO
 
-#### 软件架构
-暂无
+#### 包目录结构说明
+##### chap1: 
+    demo.py  -- print 使用demo
+    demo1.py -- 转义字符
+    demo2.py -- Unicode
+    demo3.py -- Python 中的 保留（keyword） 关键字
+    demo4.py -- 变量的定义及使用  对应内存id, 变量类型
+    demo5.py -- 基础数据类型 demo   int / float / bool / str
+    demo6.py -- 不同数据类型拼接/ 数据类型转换
+    demo7.py -- 注释的使用  + 文件编码注释（文件第一行，默认为 utf-8）
 
+##### chap2
+    01_input_1.py  -- 输入函数 input
+    01_input_2.py  -- 输入函数 input , 数据计算
+    02_calc_1.py   -- 运算符 加 减  乘 除、整除  取余  次方
+    02_calc_2.py   -- 运算符 整除  取余  一正一负情况
+    03_set_1.py    -- 赋值运算符 - 执行顺序，从 右 到 左
 
-#### 安装教程
-
-1.  下载代码文件
-2.  执行代码文件，查看内容
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+##### chap3
+    demo1.py  -- 
