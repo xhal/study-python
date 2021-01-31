@@ -36,5 +36,6 @@ Python语言学习 DEMO
     demo6.py  -- 程序的组织结构  - 计算机的流程控制：循环结构
 
 ##### chap5
-    demoList.py  -- 列表对象的基本使用方法
+    demoList.py      -- 列表对象的基本使用方法
+    demoListSort.py  -- 列表对象 - 排序
 
