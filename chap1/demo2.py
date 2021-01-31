@@ -7,7 +7,7 @@
 print(chr(0b100111001011000))  # 0b 开头 二进制数字
 print(chr(0b10001000001110))
 print(chr(21016))
-print(chr(0x4e58))             # 0x 开头 16进制数字
+print(chr(0x4e58))  # 0x 开头 16进制数字
 
 print(ord('刘'))
 print(ord('L'))

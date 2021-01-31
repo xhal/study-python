@@ -23,3 +23,8 @@ Python语言学习 DEMO
 
 ##### chap3
     demo1.py  -- 比较运算符  大于、等于、小于、大于等于、小于等于、不等于、is、is not
+    demo2.py  -- 布尔运算符  and / or / not / in / not in
+    demo3.py  -- 位运算符  位与 &、 位或 | 、  左移位  << 、  右移位 >>
+    demo4.py  -- 运算符的优先级
+
+##### chap4

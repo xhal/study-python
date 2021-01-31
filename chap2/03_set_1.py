@@ -41,10 +41,9 @@ print("a = ", a, 'id=', id(a), 'type=', type(a))
 a %= 8  # 相当于  a = a % 8
 print("a = ", a, 'id=', id(a), 'type=', type(a))
 
-
 print('--------------华丽的分隔线-----------------')
 # 解包赋值
-a,b,c=10,22,33
+a, b, c = 10, 22, 33
 
 print("a = ", a, 'id=', id(a), 'type=', type(a))
 print("b = ", b, 'id=', id(b), 'type=', type(b))
@@ -56,7 +55,7 @@ print("c = ", c, 'id=', id(c), 'type=', type(c))
 
 print('--------------华丽的分隔线-----------------')
 # 两个变量，交换赋值
-a,b = b,a
+a, b = b, a
 
 print("a = ", a, 'id=', id(a), 'type=', type(a))
 print("b = ", b, 'id=', id(b), 'type=', type(b))

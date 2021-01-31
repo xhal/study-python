@@ -8,27 +8,27 @@
 print('二进制', 0b11111)  # 0 零 b 英文字母B
 print('八进制', 0o117)  # 0 零 o 英文字母O
 print('十进制', 118)  # (默认)
-print('十六进制', 0x1188) # 0 零 x 英文字母X
+print('十六进制', 0x1188)  # 0 零 x 英文字母X
 
 print('--------------华丽的分隔线-----------------')
 # float
 a = 3.141592654
-print('a',a)
+print('a', a)
 
-b=2.2
+b = 2.2
 print('b:', b)
-print('a + b:', a+b)
-print('b + 1.1:', b+1.1) # 浮点数，不精确， 如果要精确，引入 decimal 处理
+print('a + b:', a + b)
+print('b + 1.1:', b + 1.1)  # 浮点数，不精确， 如果要精确，引入 decimal 处理
 
 print('--------------华丽的分隔线-----------------')
 # bool
 bo = True
 print('bo:', bo)
 
-bo2= False
-print('bo2:',bo2)
+bo2 = False
+print('bo2:', bo2)
 
-#bool 可以当作整数计算 True = 1, False = 0
+# bool 可以当作整数计算 True = 1, False = 0
 print('bo + 1=', bo + 1)
 print('bo2 + 1=', bo2 + 1)
 print('bo + bo2=', bo2 + bo)

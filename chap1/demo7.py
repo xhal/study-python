@@ -1,4 +1,4 @@
-#coding:utf-8
+# coding:utf-8
 # 版权信息: All rights Reserved, Designed By XHal.cc
 # 代码作者: Hal
 # 创建时间: 2021/1/21 22:19
@@ -16,5 +16,3 @@ print(520)
         b. xxxxxxxxxxxxxx
         c. cccccccccccccc
 '''
-
-

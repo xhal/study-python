@@ -11,13 +11,11 @@ print(a == 22 and b != 33)  # True and False  = False
 print(a != 22 and b == 33)  # False and True  = False
 print(a != 22 and b != 33)  # False and False = False
 
-
 print('------ or  ')
 print(a == 22 or b == 33)  # True or True   = True
 print(a == 22 or b != 33)  # True or False  = True
 print(a != 22 or b == 33)  # False or True  = True
 print(a != 22 or b != 33)  # False or False = False
-
 
 print('------ not 仅可对 Bool 取反（相当于 java 里的 ! ） ')
 b1 = True
@@ -31,4 +29,3 @@ print('w' in s1)
 print('word' in s1)
 print('word' not in s1)
 print('x' not in s1)
-

@@ -4,7 +4,7 @@
 # 文件版本: V1.0.0
 # 功能描述: <比较运算符  大于、等于、小于、大于等于、小于等于、不等于、is、is not>
 
-a,b = 11,22
+a, b = 11, 22
 
 print('a 大于 b ?', a > b)  # False
 print('a 小于 b ?', a < b)  # True
@@ -19,7 +19,7 @@ print('a 不等于 b ?', a != b)  # True
     == 比较的为值？ 还是标识？  -- 比较的是值
     比较对象的标识是用 is
 '''
-c,d = 10,10
+c, d = 10, 10
 
 print("c = ", c, 'id=', id(c), 'type=', type(c))
 print("d = ", d, 'id=', id(d), 'type=', type(d))
@@ -28,8 +28,8 @@ print(c is d)  # True , id标识 相等
 print(c is not d)  # False , 判断 id标识 不相等
 
 # list 结构
-l1 = [1,2,3,5,6,7]
-l2 = [1,2,3,5,6,7]
+l1 = [1, 2, 3, 5, 6, 7]
+l2 = [1, 2, 3, 5, 6, 7]
 
 print("l1 = ", l1, 'id=', id(l1), 'type=', type(l1))
 print("l2 = ", l2, 'id=', id(l2), 'type=', type(l2))

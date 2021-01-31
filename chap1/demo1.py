@@ -4,13 +4,13 @@
 # 文件版本: V1.0.0
 # 功能描述: 转义字符
 
-print('hello\nworld') # \ + 转义功能的首字母  n  --> newline 的首字母
+print('hello\nworld')  # \ + 转义功能的首字母  n  --> newline 的首字母
 print('----------------------------')
 print('hello\rwor')  # \r  回车，回车至首字母，将hello 清空了
 print('----------------------------')
 print('hello\tworld')  # \t   tab  制表符
 print('----------------------------')
-print('hello\bworld')   # \b 是退一个格，将 o 干没了
+print('hello\bworld')  # \b 是退一个格，将 o 干没了
 print('----------------------------')
 
 print('http://www.xhal.cc\\?ss')

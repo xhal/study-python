@@ -9,18 +9,14 @@ print(2 - 1)
 print(3 * 2)
 print(4 / 3)
 
-
 print(23 / 2)
-print(23 // 2) # 整除
-print(11 // 2) # 整除
+print(23 // 2)  # 整除
+print(11 // 2)  # 整除
 
-print(11%2) # 取余数
-print(11%3) # 取余数
-print(11%6) # 取余数
-print(11%7) # 取余数
+print(11 % 2)  # 取余数
+print(11 % 3)  # 取余数
+print(11 % 6)  # 取余数
+print(11 % 7)  # 取余数
 
-print(2**2) # 2 的 2 次方
-print(2**3) # 2 的 3 次方
-
-
-
+print(2 ** 2)  # 2 的 2 次方
+print(2 ** 3)  # 2 的 3 次方
