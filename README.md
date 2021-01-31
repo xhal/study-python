@@ -28,3 +28,9 @@ Python语言学习 DEMO
     demo4.py  -- 运算符的优先级
 
 ##### chap4
+    demo1.py  -- 程序的组织结构  - 计算机的流程控制： 顺序结构
+    demo2.py  -- Python 中一切皆对象，所有对象都有一个布尔值
+    demo3.py  -- 程序的组织结构  - 计算机的流程控制： 选择(分支)结构
+    demo4.py  -- pass 语句
+    demo5.py  -- 内置函数 range 的三种使用方法
+    demo6.py  -- 程序的组织结构  - 计算机的流程控制：循环结构
