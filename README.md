@@ -38,4 +38,12 @@ Python语言学习 DEMO
 ##### chap5
     demoList.py      -- 列表对象的基本使用方法
     demoListSort.py  -- 列表对象 - 排序
+    demoListFun.py   -- 列表对象 - 表达式创建(有规律的数据，可用表达式生成)
+
+##### chap6
+    demoDic.py     -- 字典对象 - 基础使用
+    demoDicApi.py  -- 字典对象 - 字典常用方法
+    demoDicGet.py  -- 字典对象 - 取值
+    demoDicKey.py  -- 字典对象 - key的判断、新增、修改、删除
+
 
