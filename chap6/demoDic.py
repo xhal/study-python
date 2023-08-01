@@ -9,7 +9,7 @@
 # 空字典
 dic = {}
 print(dic)
-# 键: 值
+# 键: 值  -- JSON对象结构
 dic = {'a': 'aa', 'b': 3}
 print(dic, id(dic), type(dic))
 
@@ -26,3 +26,6 @@ print(dic2, id(dic2), type(dic2))
 
 print(dic == dic2)
 print(dic is dic2)
+
+print(dic.get('a'))
+print(dic.get('b'))
